@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/mock-services/static/css/main.35c98e88.chunk.css",
+    "main.js": "/mock-services/static/js/main.ee8057c7.chunk.js",
+    "main.js.map": "/mock-services/static/js/main.ee8057c7.chunk.js.map",
+    "runtime-main.js": "/mock-services/static/js/runtime-main.5fcd6213.js",
+    "runtime-main.js.map": "/mock-services/static/js/runtime-main.5fcd6213.js.map",
+    "static/js/2.c4bd22b0.chunk.js": "/mock-services/static/js/2.c4bd22b0.chunk.js",
+    "static/js/2.c4bd22b0.chunk.js.map": "/mock-services/static/js/2.c4bd22b0.chunk.js.map",
+    "static/js/3.c45cdbed.chunk.js": "/mock-services/static/js/3.c45cdbed.chunk.js",
+    "static/js/3.c45cdbed.chunk.js.map": "/mock-services/static/js/3.c45cdbed.chunk.js.map",
+    "index.html": "/mock-services/index.html",
+    "static/css/main.35c98e88.chunk.css.map": "/mock-services/static/css/main.35c98e88.chunk.css.map",
+    "static/js/2.c4bd22b0.chunk.js.LICENSE.txt": "/mock-services/static/js/2.c4bd22b0.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/mock-services/static/media/logo.6ce24c58.svg",
+    "static/media/index.css": "/mock-services/static/media/test.6c028171.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5fcd6213.js",
+    "static/js/2.c4bd22b0.chunk.js",
+    "static/css/main.35c98e88.chunk.css",
+    "static/js/main.ee8057c7.chunk.js"
+  ]
+}
